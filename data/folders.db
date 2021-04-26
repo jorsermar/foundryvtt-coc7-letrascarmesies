@@ -1,0 +1,11 @@
+{"name":"Letras Carmesíes","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#FF0000","_id":"AzfVzSZijag8npd7"}
+{"name":"Localizaciones","type":"JournalEntry","sort":400000,"flags":{"importid":"hgkoEYejXaLaLfrw"},"parent":"cYhiqPirKrDKRXFo","sorting":"a","color":"","_id":"BA73fXmubc4jOQay"}
+{"name":"Letras Carmesíes","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#FF0000","_id":"Fcq6fV7dQGVN0fuT"}
+{"name":"Ayudas","type":"JournalEntry","sort":200000,"flags":{"importid":"Vafv93ZlIm3PmjEH"},"parent":"rGPZMst9oYmAct4w","sorting":"a","color":"#1e268f","_id":"LDuIsXtk53UEjcmW"}
+{"name":"Personajes Pregenerados","type":"Actor","sort":100000,"flags":{"importid":"PWpOAFFzlFpsfdMX"},"parent":"AzfVzSZijag8npd7","sorting":"a","color":"#29a849","_id":"WvIQ2PvqM4hhDnZV"}
+{"name":"Personajes","type":"Actor","sort":200000,"flags":{"importid":"uOh91EFDrTqpM7K9"},"parent":"AzfVzSZijag8npd7","sorting":"a","color":"#29a849","_id":"Yse5rJY2toWsgrxC"}
+{"name":"Material Guardián","type":"JournalEntry","sort":100000,"flags":{"importid":"oUor5MSp598gYVjS"},"parent":"rGPZMst9oYmAct4w","sorting":"a","color":"#1e268f","_id":"cYhiqPirKrDKRXFo"}
+{"name":"Dramatis Personae","type":"Actor","sort":300000,"flags":{"importid":"ia0vyRhu1AbFiM7e"},"parent":"AzfVzSZijag8npd7","sorting":"a","color":"#29a849","_id":"d8zXfwXcUJGBCTc1"}
+{"name":"Fotos PNJS","type":"JournalEntry","sort":300000,"flags":{"importid":"NfjHVGdFrhSy9g8h"},"parent":"rGPZMst9oYmAct4w","sorting":"a","color":"#1e268f","_id":"iDXUcXVcePAGOQUW"}
+{"name":"Puntos de Interés","type":"JournalEntry","sort":500000,"flags":{"importid":"AYQgbyqNHvKtpzoI"},"parent":"rGPZMst9oYmAct4w","sorting":"a","color":"","_id":"iFOtQg68QwBVlSB7"}
+{"name":"Letras Carmesíes","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#FF0000","_id":"rGPZMst9oYmAct4w"}
