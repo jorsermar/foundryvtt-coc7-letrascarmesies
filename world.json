@@ -10,7 +10,7 @@
   "styles": [],
   "packs": [],
   "languages": [],
-  "authors": ["jorge.serrano @jorsermar"],
+  "authors": ["Jorge Serrano @jorsermar"],
   "keywords": [],
   "socket": false,
   "url": "https://github.com/jorsermar/foundryvtt-coc7-letrascarmesies",
@@ -26,5 +26,13 @@
   "systemVersion": "0.5.5",
   "nextSession": "1970-01-01T00:00:00.000Z",
   "availability": 0,
-  "unavailable": false
+  "unavailable": false,
+  "dependencies": [
+    {
+      "name": "call-of-cthulhu-7th-babele-es",
+      "type": "module",
+      "manifest": "https://raw.githubusercontent.com/lozalojo/call-of-cthulhu-7th-babele-es/master/module.json",
+      "version": "0.56.1",
+    }
+  ],
 }
