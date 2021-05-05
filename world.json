@@ -20,7 +20,7 @@
   "readme": "",
   "bugs": "",
   "changelog": "",
-  "background": "worlds/foundryvtt-coc7-letrascarmesies/portada.jpeg",
+  "background": "worlds/foundryvtt-coc7-letrascarmesies/assets/portada.jpeg",
   "system": "CoC7",
   "coreVersion": "0.7.9",
   "systemVersion": "0.5.5",
